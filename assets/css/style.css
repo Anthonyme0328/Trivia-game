@@ -1,0 +1,32 @@
+form{
+    background-color: red;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+    opacity: .8;
+
+}
+
+.question{
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+    background-color: black;
+}
+
+.button, 
+#restart_Button
+{
+    width: 100px;
+    height: 75px;
+}
+
+body {
+    background-image: url(../images/beer_Pic.jpg);
+}
+
+h1{
+    color: rgba(134, 4, 4, 0.842)
+}
